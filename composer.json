@@ -1,0 +1,18 @@
+{
+    "name": "czachor/verot-upload-test",
+    "keywords": ["phpunit", "upload"],
+    "require": {
+        "verot/class.upload.php": "dev-master",
+        "ext-gd": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "Czachor\\": "sources/Czachor/src/",
+            "Czachor\\Tests\\": "sources/Czachor/tests/"
+        }
+    },
+    "require-dev": {
+      "roave/security-advisories": "dev-master",
+      "phpunit/phpunit": "6.1"
+    }
+}

@@ -1,0 +1,1 @@
+Example PHPUnit test case for verot's class.upload.php (https://github.com/verot/class.upload.php)
