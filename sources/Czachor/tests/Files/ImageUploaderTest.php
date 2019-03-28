@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Czachor\Tests\Articles;
+namespace Czachor\Tests\Files;
 
 use Czachor\Files\ImageUploader;
 use PHPUnit\Framework\TestCase;
